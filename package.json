@@ -1,0 +1,26 @@
+{
+  "name": "haraka-plugin-graveyard",
+  "version": "1.0.0",
+  "description": "Forward messages to another server for continued send attempts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildcardcorp/haraka-plugin-graveyard.git"
+  },
+  "keywords": [
+    "haraka",
+    "plugin",
+    "graveyard",
+    "fallback",
+    "relay"
+  ],
+  "author": "Joel Kleier <joel@kleier.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildcardcorp/haraka-plugin-graveyard/issues"
+  },
+  "homepage": "https://github.com/wildcardcorp/haraka-plugin-graveyard#readme"
+}
